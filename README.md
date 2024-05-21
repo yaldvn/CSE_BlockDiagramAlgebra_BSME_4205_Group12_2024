@@ -66,6 +66,7 @@
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/ebf40f79-a507-4bbc-8aae-7cb173fe151a)
 
 5TH REDUCED DIAGRAM: SERIES - G2G3G4H2H3 & G1 & G4
+![image](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/dc2d8762-9ce3-4339-bcde-5df8495d0e74)
 
 6TH REDUCED DIAGRAM: PARALLEL - G1G2G3G4H2H3 & H1
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/90c893ed-13a5-4500-ae4a-e2ed515220f0)
