@@ -12,10 +12,11 @@
 ### Block Diagram
 
 ### Simulink Step Response
+
+# BLOCK DIAGRAM 2
 ![image](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/10519a47-c0ea-41fe-a1ef-8a251a0e6d22)
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/228a2261-cdd0-4cd5-abb0-994001451267)
 
-# BLOCK DIAGRAM 2
 ## MANUAL COMPUTATION
 
 ## MATLAB
