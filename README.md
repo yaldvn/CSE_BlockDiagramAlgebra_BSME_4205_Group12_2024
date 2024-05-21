@@ -49,6 +49,7 @@
 
 ## MATLAB
 ### Transfer Function Step Response
+![image](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/c04959b6-4cd0-4c6c-ac5d-d3a43591a6a4)
 
 ### Block Diagram
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/2291ec02-3e7c-402b-9c49-e5a7799ddccb)
@@ -72,3 +73,5 @@
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/90c893ed-13a5-4500-ae4a-e2ed515220f0)
 
 ### Simulink Step Response
+All the diagrams resulted to a similar simulink step response shown below.
+![image](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/d3ecd998-3eef-426b-9cd8-fb6c3a1380cf)
