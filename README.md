@@ -19,6 +19,8 @@
 ![444](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/b1a901d5-e772-4370-baaa-e18a9ff3f79e)
 ![555](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/41801fcb-0270-49dd-bea1-9d28f37ad691)
 ### Simulink Step Response
+![time response](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/06f1fcd5-c589-473b-9c13-5acfe5a37144)
+
 
 # BLOCK DIAGRAM 2
 ![image](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/10519a47-c0ea-41fe-a1ef-8a251a0e6d22)
