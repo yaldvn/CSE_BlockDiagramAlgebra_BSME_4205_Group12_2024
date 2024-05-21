@@ -13,7 +13,11 @@
 ### Transfer Function Step Response
 
 ### Block Diagram
-
+![1111](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/700dff43-db50-4606-b68d-abe1813ec660)
+![222](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/4b3ebf21-fb54-4097-9fd1-b39c88dcee00)
+![3333](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/adb0362a-12d3-49cc-aa8f-6dd15cc1832d)
+![444](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/b1a901d5-e772-4370-baaa-e18a9ff3f79e)
+![555](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/41801fcb-0270-49dd-bea1-9d28f37ad691)
 ### Simulink Step Response
 
 # BLOCK DIAGRAM 2
