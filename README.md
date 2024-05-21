@@ -53,14 +53,21 @@
 ### Block Diagram
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/2291ec02-3e7c-402b-9c49-e5a7799ddccb)
 
+1ST REDUCED DIAGRAM: SERIES - G4 & H3 
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/6ab10fa5-b0b3-41c5-9b0c-9ba3c827e98f)
 
+2ND REDUCED DIAGRAM: PARALLEL - G4H3 & G3
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/5344a1fa-cdf3-4ca1-bcbd-4d1928ef2188)
 
+3RD REDUCED DIAGRAM: SERIES - G3G4H3 & G2
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/b74fa7b7-041b-43a3-9057-fe851e1cba03)
 
+4TH REDUCED DIAGRAM: PARALLEL - G2G3G4H3 & H2
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/ebf40f79-a507-4bbc-8aae-7cb173fe151a)
 
+5TH REDUCED DIAGRAM: SERIES - G2G3G4H2H3 & G1 & G4
+
+6TH REDUCED DIAGRAM: PARALLEL - G1G2G3G4H2H3 & H1
 ![image](https://github.com/yaldvn/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/90c893ed-13a5-4500-ae4a-e2ed515220f0)
 
 ### Simulink Step Response
