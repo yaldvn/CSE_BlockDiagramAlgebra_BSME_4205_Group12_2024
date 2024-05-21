@@ -1,4 +1,4 @@
-![image](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/36b7d6c6-7a77-4670-9fc2-6d1ab0cbb288)# CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024
+# CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024
 
 # BLOCK DIAGRAM 1
 ![image](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159038055/f198fae1-3051-466b-bd01-e9ab00eb643f)
